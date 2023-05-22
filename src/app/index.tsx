@@ -29,7 +29,7 @@ import Layout from '../components/Layout';
  * Making base name for the website (needed in deployment)
  */
 const router = createBrowserRouter(routes, {
-  basename: 'https://living-resume.vercel.app/ukko-react-template',
+  basename: '/ukko-react-template',
 });
 
 function App() {
