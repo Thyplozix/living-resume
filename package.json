@@ -1,7 +1,7 @@
 {
-  "homepage": "https://demo.cocobasic.com/ukko-react",
+  "homepage": "https://demo.cocobasic.com/ukko-react-template",
   "name": "ukko-react",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
