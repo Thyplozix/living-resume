@@ -1,0 +1,39 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "ADRIENNE BIENAPFL"
+  },
+
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "services",
+      "text": "Works"
+    },
+    {
+      "to": "about",
+      "text": "About"
+    },
+    {
+      "to": "skills",
+      "text": "Skills"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "https://twitter.com/ReAdrimator",
+      "text": "TW."
+    },
+    {
+      "to": "https://www.linkedin.com/in/adrienne-bienapfl-78683610a/",
+      "text": "IN."
+    },
+    {
+      "to": "https://www.facebook.com/adrienne.bienapfl/",
+      "text": "FB."
+    }
+  ]
+}

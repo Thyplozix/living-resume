@@ -1,0 +1,56 @@
+{
+  "title": "PROFESSIONAL SKILLS",
+
+  "description": "Skills I've honed over my professional career",
+  "paragraphe": "Get to know the tech stacks I use most!",
+
+  "skillsHistory": [
+    {
+      "title": "2020",
+      "description": "**2020 - 2021** Fortified Systems LLC"
+    },
+    {
+      "title": "2021",
+      "description": "**2021 - 2022** Creativarian LLC"
+    },
+    {
+      "title": "2023",
+      "description": "**2021 - 2023** Kitty Poo Club LLC"
+    }
+  ],
+
+  "skillsProgress": [
+    {
+      "name": "REACT",
+      "percentage": 92
+    },
+    {
+      "name": "GRAPHQL",
+      "percentage": 88
+    },
+    {
+      "name": "SELENIUM",
+      "percentage": 68
+    },
+    {
+      "name": "SHOPIFY",
+      "percentage": 97
+    },
+    {
+      "name": "FIGMA/ADOBE XD",
+      "percentage": 75
+    },
+    {
+      "name": "JAVASCRIPT",
+      "percentage": 88
+    },
+    {
+      "name": "TYPESCRIPT",
+      "percentage": 80
+    },
+    {
+      "name": "SQL",
+      "percentage": 97
+    }
+  ]
+}

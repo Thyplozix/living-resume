@@ -1,0 +1,36 @@
+{
+  "title": "THE GIRL",
+
+  "description": "I am a quick learner with excellent problem-solving skills, and I am excited to apply these skills to tackle challenging problems and deliver high-quality solutions",
+
+  "paragraphe1": " I am eager to contribute to my team's success, continuously learn and grow, and make an impact on user experience.",
+
+  "aboutInfo": [
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:thyplozix@gmail.com",
+        "text": "thyplozix@gmail.com"
+      }
+    },
+    {
+      "title": "ROLE",
+      "text": "FullStack Engineer"
+    },
+    {
+      "title": "PHONE",
+      "link": {
+        "to": "tel:+12085150344",
+        "text": "(+208) 515 0344"
+      }
+    }
+  ],
+
+  "paragraphes": [
+    "Hello there! 👋 I'm a dedicated and passionate full-stack developer, driven by the thrill of new challenges and committed to upholding integrity and pride in my work. With a focus on cutting-edge technologies, my specialties lie in React, React Native, Redux, SQL, and AWS.",
+
+    "I thrive in dynamic environments that demand creative problem-solving and continuous learning. My journey as a developer has allowed me to gain extensive experience in developing robust and scalable web and mobile applications. I find immense joy in crafting intuitive user interfaces and architecting efficient backend systems.",
+
+    "If you're seeking a full-stack developer who combines technical expertise with a genuine passion for innovation and excellence, I would be thrilled to connect with you. "
+  ]
+}

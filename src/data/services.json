@@ -1,0 +1,43 @@
+{
+  "title": "ONGOING PROJECTS",
+  "description": "Check out the irons I've currently got in the fire!",
+  "paragraphes": [
+    "As a full stack engineer, I have gained valuable experience working with industry-leading technologies such as React, Shopify, and AWS. With a strong background in developing web applications, I have successfully leveraged React to build intuitive and responsive user interfaces, enhancing the overall user experience",
+    "My expertise in AWS has allowed me to architect scalable and robust backend systems, leveraging services like Lambda, S3, and EC2. Through my comprehensive understanding of these technologies, I have consistently delivered high-quality software solutions, meeting client requirements and driving business growth."
+  ],
+  "servicesLinks": [
+    {
+      "to": "https://next-gpt-sigma.vercel.app/",
+      "text": "CHAT GPT PERSONAL ASSISTANT"
+    },
+    {
+      "to": "https://www.shoegoose.com/",
+      "text": "SHOE GOOSE"
+    }
+  ],
+  "servicesBoxes": [
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "DESIGN",
+      "servDesc": "Figma, Adobe XD, Balsamiq"
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "DEVELOP",
+      "servDesc": "React/React Native, GraphQL, AWS, Shopify, WordPress"
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "TEST",
+      "servDesc": "Selenium, Cucumber.js, Apollo GraphQL"
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "DELIVER",
+      "servDesc": "Vercel, AWS Amplify, Git"
+    }
+  ]
+}
